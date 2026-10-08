@@ -1,0 +1,1 @@
+Redirects for the old addresses of the Glasshouse documentation, from before the repository was renamed from lg-webos-dashboard to [glasshouse](https://github.com/rorygallagher2024/glasshouse). Generated from the docs site's pages; the old addresses never change, so this needs no upkeep.
